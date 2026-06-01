@@ -25,18 +25,7 @@ Where `x` is the letter's position (0–25) and `n` is the shift key.
 
 ---
 
-##  How to Run
 
-**Requirements:** Python 3.x (no external libraries needed)
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/caesar-cipher.git
-cd caesar-cipher
-
-# Run the script
-python cipher.py
-```
 
 **Example session:**
 
