@@ -25,6 +25,9 @@ def decrypt(encrypted_text, shift):
 
     return decrypted_text
 
+print("\n" + "=" * 45)
+print("     🔐 CAESAR CIPHER ENCRYPTION TOOL")
+print("=" * 45 + "\n")
 
 text = input("Enter text to encrypt: ")
 shift = int(input("Enter shift amount (1-25): "))
